@@ -1,0 +1,5 @@
+name: PartnerPackge
+main: Walty\Main
+version: 1.0.0
+author: WaltyMC
+api: 3.0.0
